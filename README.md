@@ -51,7 +51,7 @@ These are ideas to test in a small pilot. The analysis does not prove that the c
 - `customer_segmentation.ipynb` — the notebook with the analysis and saved outputs.
 - `banking_customer_segmentation.csv` — the dataset used in the project.
 - `requirements.txt` — the Python libraries needed to run the notebook.
-- `customer_segmentation_presentation.pdf` — the presentation.
+- `customer_segmentation_presentation.pdf` — the presentation (in Armenian).
 
 ## How to run
 
